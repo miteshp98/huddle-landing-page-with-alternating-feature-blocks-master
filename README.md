@@ -2,6 +2,8 @@
 
 This is a solution to the [Huddle landing page with alternating feature blocks challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+![mobile](https://github.com/miteshp98/huddle-landing-page-with-alternating-feature-blocks-master/assets/145320555/9afb8d9c-5b2c-42f0-bb95-4baef05d7e4d)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -29,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL ](https://github.com/miteshp98/huddle-landing-page-with-alternating-feature-blocks-master)
+- Live Site URL: [live site URL](https://miteshp98.github.io/huddle-landing-page-with-alternating-feature-blocks-master/)
 
 ## My process
 
